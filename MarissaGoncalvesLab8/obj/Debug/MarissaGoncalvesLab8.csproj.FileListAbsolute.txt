@@ -1,0 +1,7 @@
+C:\Users\maris\source\repos\MarissaGoncalvesLab8\MarissaGoncalvesLab8\obj\Debug\MarissaGoncalvesLab8.csprojAssemblyReference.cache
+C:\Users\maris\source\repos\MarissaGoncalvesLab8\MarissaGoncalvesLab8\obj\Debug\MarissaGoncalvesLab8.csproj.CoreCompileInputs.cache
+C:\Users\maris\source\repos\MarissaGoncalvesLab8\MarissaGoncalvesLab8\bin\Debug\MarissaGoncalvesLab8.exe.config
+C:\Users\maris\source\repos\MarissaGoncalvesLab8\MarissaGoncalvesLab8\bin\Debug\MarissaGoncalvesLab8.exe
+C:\Users\maris\source\repos\MarissaGoncalvesLab8\MarissaGoncalvesLab8\bin\Debug\MarissaGoncalvesLab8.pdb
+C:\Users\maris\source\repos\MarissaGoncalvesLab8\MarissaGoncalvesLab8\obj\Debug\MarissaGoncalvesLab8.exe
+C:\Users\maris\source\repos\MarissaGoncalvesLab8\MarissaGoncalvesLab8\obj\Debug\MarissaGoncalvesLab8.pdb
